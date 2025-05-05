@@ -14,8 +14,6 @@ Concluido.
 
 ** https://chorabboficial.netlify.app/
 
-**Basta baixa-lo pelo github pelo link: https://github.com/Arthur-Parente-Dias/Site Oficial ChoraBB.
-
 ## Tecnologias usadas
 
 - `Visual Studio Code`
